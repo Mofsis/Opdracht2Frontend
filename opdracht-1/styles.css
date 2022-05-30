@@ -2,6 +2,8 @@
    OEFENEN MET FLEXBOX
 ========================================================= */
 
+Hi Alex, ik heb geen idee waar ik mijn commentaar moet zetten. Dus ik doe het maar hier :P
+
 /* Schrijf hier  jouw CSS! */
 
 .one {
@@ -36,7 +38,12 @@ form {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
+} 
+
+Opdracht 1.3 heb je op dezelfde manier gedaan als ik, in de verwerkingen hebben ze gewerkt met flex-grow en flex-shrink en de styling verdeelt in class left en right.
+
+Ligt het aan mij of mis ik hier de uitwerking van 1.4?
+
 
 .five {
     display: flex;
@@ -48,3 +55,7 @@ article {
     flex-basis: 400px;
     flex-grow: 1;
 }
+
+Deze heb ik persoonlijk zonder border-box gedaan, werkte ook prima, in de uitwerkingen zetten ze ook nog flex-shrink op 0.
+
+hele schone code  
